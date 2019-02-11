@@ -12,4 +12,4 @@ while guess != answer:
     elif guess > answer:
         print("Please guess lower")
     else:
-        print("Well done, you guessed it")
+        print("Well done, you guessed it!")
